@@ -48,7 +48,7 @@ To test compatibility across Python releases::
     tox
 
 rfc6266 is currently tested under Python 2.7, Python 2.6,
-Python 3.2, Python 3.3, Python 3.4, Python 3.5, Python 3.6 and PyPy (1.7).
+Python 3.3, Python 3.4, Python 3.5, Python 3.6 and PyPy (1.7), PyPy(5.10.0) for Python3.
 
 .. image:: https://secure.travis-ci.org/g2p/rfc6266.png
    :target: https://secure.travis-ci.org/g2p/rfc6266
